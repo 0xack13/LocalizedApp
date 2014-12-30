@@ -53,9 +53,7 @@
 		4C13CD351A535C470042A660 /* LocalizedAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LocalizedAppTests-Info.plist"; sourceTree = "<group>"; };
 		4C13CD371A535C470042A660 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4C13CD391A535C470042A660 /* LocalizedAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LocalizedAppTests.m; sourceTree = "<group>"; };
-		4C13CD431A535D1B0042A660 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Main.strings; sourceTree = "<group>"; };
-		4C13CD441A535D1B0042A660 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		4C13CD451A535D1B0042A660 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		4C13CD461A535FF40042A660 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -282,7 +280,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C13CD181A535C470042A660 /* en */,
-				4C13CD441A535D1B0042A660 /* ar */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -291,7 +288,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C13CD211A535C470042A660 /* Base */,
-				4C13CD431A535D1B0042A660 /* ar */,
+				4C13CD461A535FF40042A660 /* ar */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -300,7 +297,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C13CD371A535C470042A660 /* en */,
-				4C13CD451A535D1B0042A660 /* ar */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
